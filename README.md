@@ -1,2 +1,2 @@
 # Python
-All basics of python Understandig.
+Python Programming
